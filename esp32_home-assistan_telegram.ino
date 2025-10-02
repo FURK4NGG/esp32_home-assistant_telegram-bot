@@ -83,7 +83,7 @@ void handleNewMessages(int numNewMessages) {
     if (text == "/start"){
       String start = "-Furkan KARLIOĞLU'nun HOME UYGULAMASINA HOŞ GELDİNİZ- \n";
       start += "Evinizdeki cihazınız ile etkileşime geçmek için gereken komutları '/help' ile bulabilirsiniz\n";
-      start += "!Hata mesajı alıyorsanız geliştirici kişi ile iletişime geçiniz.(e-posta adresi:karlioglufurkan540@gmail.com)!";
+      start += "!Hata mesajı alıyorsanız geliştirici kişi ile iletişime geçiniz.(e-posta adresi:)!";
       bot.sendMessage(chat_id, start, "");
       text = "/help";
       }

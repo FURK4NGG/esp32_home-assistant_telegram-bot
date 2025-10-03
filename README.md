@@ -43,7 +43,8 @@
 1. `Refer to the circuit diagram`
 2. `Install and open Arduino IDE`
 3. `Open the 'dektop_deck.ino'`
-4. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
+4. `Paste your wifi, bot token and chat id inf.`
+5. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
 ```bash
 http://Digistump.com/package_digistump_index.json

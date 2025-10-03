@@ -47,7 +47,7 @@
 5. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
 ```bash
-http://Digistump.com/package_digistump_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 6. `Click 'OK'`  
 7. `Tools>Board>Boards Manager...`  

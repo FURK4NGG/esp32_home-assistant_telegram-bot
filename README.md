@@ -8,9 +8,13 @@
 <h1 align="center">The design aims to provide real-time control and monitoring by leveraging a Telegram bot to verify collected data. This core functionality is extended to enable immediate awareness through voice notifications delivered directly via both the user's mobile device and the home system.</h1>  
 
 
-## 📦 Setup 
-<!-- seup i ikiye ayiralim yada oncesinie preparation hazirlik yeri acalim verileri cekmek icin aynisini collabda dosyalarimizi olustururken kullaniriz -->
+## 🔎 Preparation
+1. `Find your wifi's name and password`
+2. `Go to the`[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create your own api key`
+> **Not Required:**Go to the[`Google AI Studio`](https://aistudio.google.com/app/api-keys)>F12>Network>F5>Click on any request>Security>Copy the SHA-1 fingerprint
 
+
+## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `Install and open Arduino IDE`
 3. `Open the 'dektop_deck.ino'`

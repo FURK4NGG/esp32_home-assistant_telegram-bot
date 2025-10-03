@@ -21,7 +21,7 @@
 
 </details>
 <details>
-<summary>Get your Telegram Chat ID:</summary>
+<summary>3. Get your Telegram Chat ID:</summary>
 
 1. Open Telegram and search for `@userinfobot` or `@get_id_bot`.
 2. Start a chat with the bot by typing `/start`.

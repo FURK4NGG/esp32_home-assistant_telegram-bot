@@ -37,7 +37,6 @@
        - The `chat.id` is your group chat ID (usually negative for groups, e.g., `-1001234567890`).
 
 </details>
-> **Not Required:**Go to the[`Google AI Studio`](https://aistudio.google.com/app/api-keys)>F12>Network>F5>Click on any request>Security>Copy the SHA-1 fingerprint
 
 
 ## 📦 Setup 

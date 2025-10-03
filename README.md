@@ -49,12 +49,12 @@
 ```bash
 http://Digistump.com/package_digistump_index.json
 ```
-5. `Click 'OK'`  
-6. `Tools>Board>Boards Manager...`  
-7. `Search 'esp8266' and install it` 
+6. `Click 'OK'`  
+7. `Tools>Board>Boards Manager...`  
+8. `Search 'esp8266' and install it` 
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340 or CP2102) before connecting the ESP8266 to your computer.
-8. `Plug the ESP8266 into your computer`  
-9. `Tools>Port>'Select the esp8266's port'`  
+9. `Plug the ESP8266 into your computer`  
+10. `Tools>Port>'Select the esp8266's port'`  
 
 
 ## 🎉 Run  

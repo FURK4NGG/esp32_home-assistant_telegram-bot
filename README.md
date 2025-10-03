@@ -10,7 +10,33 @@
 
 ## 🔎 Preparation
 1. `Find your wifi's name and password`
-2. `Go to the`[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create your own api key`
+<details>
+<summary>2. Open the Telegram for the Bot Token and follow these steps:</summary>
+
+1. Open Telegram and search for `@BotFather`.
+2. Start a chat with BotFather by typing `/start`.
+3. Create a new bot with the `/newbot` command.
+4. Follow the prompts to name your bot and choose a username.
+5. Copy the API token provided by BotFather.
+
+</details>
+<details>
+<summary>Get your Telegram Chat ID:</summary>
+
+1. Open Telegram and search for `@userinfobot` or `@get_id_bot`.
+2. Start a chat with the bot by typing `/start`.
+3. The bot will reply with your **numeric user ID**.
+4. For group chat ID:
+    1. Add your bot to the group.
+    2. Send a message in the group mentioning the bot.
+    3. Use the API call:
+       ```
+       https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+       ```
+       - Look for `"chat":{"id": ...}` in the JSON response.
+       - The `chat.id` is your group chat ID (usually negative for groups, e.g., `-1001234567890`).
+
+</details>
 > **Not Required:**Go to the[`Google AI Studio`](https://aistudio.google.com/app/api-keys)>F12>Network>F5>Click on any request>Security>Copy the SHA-1 fingerprint
 
 

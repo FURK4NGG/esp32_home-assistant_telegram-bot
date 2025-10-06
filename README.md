@@ -44,23 +44,19 @@
 2. `Install and open Arduino IDE`
 3. `Open the 'esp32_home-assistan_telegram.ino'`
 4. `Paste your wifi, bot token and chat id inf.`
-5. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
->Paste this code  
-```bash
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-```
-6. `Click 'OK'`  
+
 7. `Tools>Board>Boards Manager...`  
-8. `Search 'esp8266' and install it` 
-> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340 or CP2102) before connecting the ESP8266 to your computer.
-9. `Plug the ESP8266 into your computer`  
-10. `Tools>Port>'Select the esp8266's port'`
+8. `Search 'esp32>by Espressif Systems' and install it` 
+> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
+9. `Plug the ESP32CAM into your computer`  
+10. `Tools>Port>'Select the esp's port'`
 11. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 
 ## 🎉 Run  
-Press the reset button on the esp32cam
+`Disconnect the IO0-GND connection(disable programming mode)`
+`Press the reset button on the esp32cam`
 
 
 ## 🔒 License  

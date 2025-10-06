@@ -41,7 +41,7 @@
 
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
-2. `Install the 'Arduino IDE' program and open 'esp32_home-assistan_telegram.ino' file`
+2. `Install the 'Arduino IDE' software and open 'esp32_home-assistan_telegram.ino' file`
 3. `Paste your wifi, bot token and chat id inf.`
 4. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  

@@ -54,7 +54,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
 8. `Plug the ESP32CAM into your computer`
 9. `Tools>Port>'Select the esp's port'`
-10. `Tools>Manage Libraries...>Install these libraries{UniversalTelegramBot,ArduinoJson}`
+10. `Tools>Manage Libraries...>Install the libraries used in the code`
 11. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 

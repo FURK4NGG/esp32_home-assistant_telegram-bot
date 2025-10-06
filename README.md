@@ -46,7 +46,7 @@
 4. `Paste your wifi, bot token and chat id inf.`
 
 7. `Tools>Board>Boards Manager...`  
-8. `Search 'esp32>by Espressif Systems' and install it` 
+8. `Search 'esp32' `>by Espressif Systems` and install it` 
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
 9. `Plug the ESP32CAM into your computer`  
 10. `Tools>Port>'Select the esp's port'`

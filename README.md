@@ -60,8 +60,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 
 ## 🎉 Run  
-`Disconnect the IO0-GND connection(disable programming mode)`
-`Press the reset button on the esp32cam`
+1. `Disconnect the IO0-GND connection(disable programming mode)`  
+2. `Press the reset button on the esp32cam`
 
 
 ## 🔒 License  

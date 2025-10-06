@@ -44,7 +44,12 @@
 2. `Install and open Arduino IDE`
 3. `Open the 'esp32_home-assistan_telegram.ino'`
 4. `Paste your wifi, bot token and chat id inf.`
-
+5. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
+>Paste this code  
+```bash
+https://dl.espressif.com/dl/package_esp32_index.json
+```
+6. `Click 'OK'`  
 7. `Tools>Board>Boards Manager...`  
 8. `Search 'esp32' by Espressif Systems, and install it` 
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.

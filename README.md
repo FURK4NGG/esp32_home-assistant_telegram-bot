@@ -62,7 +62,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ## 🎉 Run  
 1. `Disconnect the IO0-GND connection(disable programming mode)`  
 2. `Press the reset button on the esp32cam`
-3. `You are ready to use /start command in your telegram bot`
+3. `You are ready to use '/start' command in your telegram bot`
 
 
 ## 🔒 License  

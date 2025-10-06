@@ -55,7 +55,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
 9. `Plug the ESP32CAM into your computer`  
 10. `Tools>Port>'Select the esp's port'`
-11. `Click the 'upload ➡️' button`  
+11. `Tools>Manage Libraries...`
+12. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 

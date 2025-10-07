@@ -64,6 +64,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 2. `Press the reset button on the esp32cam`
 3. `You are ready to use '/start' command in your telegram bot`
 
+`You can explore more projects in my`[`projects page`](https://furk4ngg.me/projects)
 
 ## 🔒 License  
 <h1 align="center">📜 GPL-3.0 License</h1>  

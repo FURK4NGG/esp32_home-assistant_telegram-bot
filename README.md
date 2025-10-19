@@ -1,4 +1,5 @@
 <!-- Proje-Resmi -->
+<!-- sensorlu devre semasi -->
 
 ## 👀 esp32_home-assistant_telegram-bot Overview  
 <h1 align="center">Home Assistant controlled by telegram bot</h1>  

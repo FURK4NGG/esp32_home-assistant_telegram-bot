@@ -53,9 +53,10 @@ https://dl.espressif.com/dl/package_esp32_index.json
 7. `Search 'esp32' by Espressif Systems, and install it` 
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
 8. `Plug the ESP32CAM into your computer`
-9. `Tools>Port>'Select the esp's port'`
-10. `Tools>Manage Libraries...>Install the libraries used in the code`
-11. `Click the 'upload ➡️' button`  
+9. `Tools>Board>'ESP32 Wrover Module'`
+10. `Tools>Port>'Select the esp's port'`
+11. `Tools>Manage Libraries...>Install the libraries used in the code`
+12. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 

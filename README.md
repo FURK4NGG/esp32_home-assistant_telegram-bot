@@ -67,6 +67,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 - *115200 baud*
 
 </details>
+
 10. `Tools>Port>'Select the esp's port'`  
 11. `Tools>Manage Libraries...>Install the libraries used in the code`  
 12. `Click the 'upload ➡️' button`  

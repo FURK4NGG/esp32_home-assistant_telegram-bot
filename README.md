@@ -55,6 +55,18 @@ https://dl.espressif.com/dl/package_esp32_index.json
 > ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340, CH341, FT232R / FTDI Driver, CP2102) before connecting the ESP32CAM to your computer.
 8. `Plug the ESP32CAM into your computer`
 9. `Tools>Board>esp32>'ESP32 Wrover Module'`
+<details>
+<summary>Apply these changes:</summary>
+
+- Core Debug Level: None
+- Erase All Flash Before Sketch Upload: Disabled
+- Flash Frequency: 80MHz
+- Flash Mode: QIO
+- Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)
+- Upload Speed: 115200
+- *115200 baud*
+
+</details>
 10. `Tools>Port>'Select the esp's port'`
 11. `Tools>Manage Libraries...>Install the libraries used in the code`
 12. `Click the 'upload ➡️' button`  

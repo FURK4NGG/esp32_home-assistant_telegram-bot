@@ -10,9 +10,19 @@
 
 
 ## 🔎 Preparation
-1. `Find your wifi's name and password`
 <details>
-<summary>2. Open the Telegram for the Bot Token and follow these steps:</summary>
+<summary>1. Components</summary>
+'1' ESP32-CAM<br>
+'1' Flammable gas sensor (MQ-2)<br>
+'1' Temperature and humidity sensor (DHT11)<br>
+'1' Motion sensor (PIR Sensor Hc-Sr501)<br>
+'1' 5V Active Buzzer<br>
+'1' Breadboard Power Supply Module (Mb102)
+</details>
+
+2. `Find your wifi's name and password`
+<details>
+<summary>3. Open the Telegram for the Bot Token and follow these steps:</summary>
 
 1. Open Telegram and search for `@BotFather`.
 2. Start a chat with BotFather by typing `/start`.
@@ -22,7 +32,7 @@
 
 </details>
 <details>
-<summary>3. Get your Telegram Chat ID:</summary>
+<summary>4. Get your Telegram Chat ID:</summary>
 
 1. Open Telegram and search for `@userinfobot` or `@get_id_bot`.
 2. Start a chat with the bot by typing `/start`.

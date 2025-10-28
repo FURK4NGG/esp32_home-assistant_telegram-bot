@@ -12,8 +12,8 @@
 ## 🔎 Preparation
 <details>
 <summary>1. Components</summary>
-- '1' ESP32-CAM
-- '1' Flammable gas sensor (MQ-2)<br>
+'1' ESP32-CAM<br>
+'1' Flammable gas sensor (MQ-2)<br>
 '1' Temperature and humidity sensor (DHT11)<br>
 '1' Motion sensor (PIR Sensor Hc-Sr501)<br>
 '1' 5V Active Buzzer<br>

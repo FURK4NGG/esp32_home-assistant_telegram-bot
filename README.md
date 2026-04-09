@@ -1,3 +1,4 @@
+<!-- devre sema ekle -->
 ## 👀 esp32_home-assistant_telegram-bot 2nd Generation Overview  
 <h1 align="center">Home Assistant controlled by telegram bot</h1>  
 

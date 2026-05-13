@@ -3,10 +3,13 @@
 <h1 align="center">Home Assistant controlled by telegram bot</h1>  
 
 
-![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-1.webp)
-![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-2.webp)
-![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-3.webp)
-![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-4.webp)
+![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-1.webp)
+
+![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-2.webp)
+
+![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-3.webp)
+
+![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-4.webp)
 <!-- sensorlu devre semasi -->
 
 

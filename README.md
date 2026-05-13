@@ -2,10 +2,11 @@
 ## 👀 esp32_home-assistant_telegram-bot 2nd Generation Overview  
 <h1 align="center">Home Assistant controlled by telegram bot</h1>  
 
-![Image](https://github.com/user-attachments/assets/0ef08f8c-dddf-4687-a3ef-b7b9fd78ff04)
-![Image](https://github.com/user-attachments/assets/d9f93882-1191-4411-b866-fe38fd370811)
-![Image](https://github.com/user-attachments/assets/47054ad4-75e6-447d-b018-5684fe5d228b)
-![Image](https://github.com/user-attachments/assets/7b922a91-b29a-4a72-a89f-314462bdf26e)
+
+![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-1.webp)
+![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-2.webp)
+![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-3.webp)
+![Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-4.webp)
 <!-- sensorlu devre semasi -->
 
 

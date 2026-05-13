@@ -2,7 +2,6 @@
 ## 👀 esp32_home-assistant_telegram-bot 2nd Generation Overview  
 <h1 align="center">Home Assistant controlled by telegram bot</h1>  
 
-
 ![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-1.webp)
 
 ![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-2.webp)
@@ -11,7 +10,6 @@
 
 ![esp32_home-assistant_telegram-bot Demo Image](https://github.com/FURK4NGG/esp32_home-assistant_telegram-bot/blob/main/{}/esp32_home-assistant_telegram-bot-4.webp)
 <!-- sensorlu devre semasi -->
-
 
 ## 🚀 Features  
 <h1 align="center">The design aims to provide real-time control and monitoring by leveraging a Telegram bot to verify collected data. This core functionality is extended to enable immediate awareness through voice notifications delivered directly via both the user's mobile device and the home system.</h1>  
